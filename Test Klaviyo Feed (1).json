@@ -1,13 +1,13 @@
 [
     {
-        "hotel_id": "Cbef379a-Afd9-433b-9bb2-78bf97593646",
-        "name": "Saltwater Hideaway | Coral Resort #e-2",
+        "id": "Cbef379a-Afd9-433b-9bb2-78bf97593646",
+        "title": "Saltwater Hideaway | Coral Resort #e-2",
         "brand": "Stay",
         "address.addr1": "483 E Shore Drive #e2",
-        "address.city": "Clearwater Beach",
+        "description": "Clearwater Beach",
         "address.country": "United States",
-        "image[0].url": "https://stayapp.co/_next/image?url=https://assets07.redawning.com/sites/default/files/rental_property/494281/b806a73f03049ca8e90661ed46a56c1b.jpeg&w=3840&q=75",
-        "url": "Https://Stayapp.Co/Property/Cbef379a-Afd9-433b-9bb2-78bf97593646",
+        "image_link": "https://stayapp.co/_next/image?url=https://assets07.redawning.com/sites/default/files/rental_property/494281/b806a73f03049ca8e90661ed46a56c1b.jpeg&w=3840&q=75",
+        "link": "Https://Stayapp.Co/Property/Cbef379a-Afd9-433b-9bb2-78bf97593646",
         "Star_Rating": "4",
         "address.region": "Florida",
         "latitude": "27.981851",
